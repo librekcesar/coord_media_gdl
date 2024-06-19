@@ -1,0 +1,1 @@
+var json_coord_media_gdl1_2 = {"type":"FeatureCollection","name":"coord_media_gdl1_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"MEAN_X":-103.34271,"MEAN_Y":20.58794,"estacion":"centroide_GDL"},"geometry":{"type":"Point","coordinates":[-103.342711915383788,20.587942678153958]}}]}
